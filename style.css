@@ -168,17 +168,7 @@ body {
 
 @media (max-width: 550px){
     #footbar {
-        background-color: rgb(243, 243, 243);
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
         justify-content: center;
-        align-items: baseline;
-        padding: 1rem;
-        height: ;
-        position: absolute;
-        bottom: 0;
-        width: 100vw;
     }   
 }
 
@@ -208,7 +198,7 @@ body {
     text-decoration: underline;
 }
 
-@media (max-width: 550px) {
+@media (max-width: 800px) {
     .bottomright {
         margin-top: 10px;
     }

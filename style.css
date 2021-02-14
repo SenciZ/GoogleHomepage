@@ -166,6 +166,23 @@ body {
     width: 100vw;
 }   
 
+@media (max-width: 550px){
+    #footbar {
+        background-color: rgb(243, 243, 243);
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: center;
+        align-items: baseline;
+        padding: 1rem;
+        height: ;
+        position: absolute;
+        bottom: 0;
+        width: 100vw;
+    }   
+}
+
+
 .bottomright a  {
     color: rgba(0,0,0,0.87);
     font-size: 13px;
@@ -189,4 +206,10 @@ body {
 
 .bottomleft a:hover {
     text-decoration: underline;
+}
+
+@media (max-width: 550px) {
+    .bottomright {
+        margin-top: 10px;
+    }
 }

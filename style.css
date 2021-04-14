@@ -18,8 +18,6 @@ body {
     align-items: center;
 }  
 
-  
-
 .mainlogo {
     margin-bottom: 1rem;
     margin-top: 10rem;;
@@ -48,6 +46,7 @@ body {
     margin-top: 1%;
     margin-right: 0%;
 }
+
 .micIcon{
     width: 22px;
     margin-right: 5%;
@@ -58,7 +57,6 @@ body {
 
 .search-container:hover {
     box-shadow: 0px 1px 4px 1px #d8d8d8;
-
 }
 
 #searchbar {
@@ -90,7 +88,6 @@ body {
     min-width: 54px;
     margin-left: 5px;
     margin-right: 5px;
-
 }
 
 .mainbtn:hover {
@@ -105,7 +102,6 @@ body {
 .gridimage {
     width: 20px;
     color: #5f6368;
-
 }
 
 #navbar {
@@ -114,12 +110,11 @@ body {
     justify-content: space-between;
     align-items: center;
     padding: 1rem;
-    height: ;
 }   
 
 .rightnav a  {
     color: rgba(0,0,0,0.87);
-    font-size: 13px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
     justify-content: flex-end;
@@ -129,11 +124,9 @@ body {
     text-decoration: underline;
 }
 
-
-
 .leftnav a {
     color:  rgba(0,0,0,0.87);
-    font-size: 13px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
 }
@@ -156,7 +149,6 @@ body {
 .signin:hover {
     box-shadow: 0 1px 2px 0 rgb(66 133 244 / 30%), 0 1px 3px 1px rgb(66 133 244 / 15%);
     background: #2b7de9;
-
 }
 .gridcontainer {
     display: inline;
@@ -166,14 +158,10 @@ body {
     position: relative;
 }
 
-
 .gridimg {
     width: 15px;
     vertical-align: middle;
-
 }   
-
-
 
 .gridcontainer:hover {
     background-color: #f1efef;
@@ -188,7 +176,6 @@ body {
     justify-content: space-between;
     align-items: baseline;
     padding: 1rem;
-    height: ;
     position: absolute;
     bottom: 0;
     width: 100vw;
@@ -200,10 +187,9 @@ body {
     }   
 }
 
-
 .bottomright a  {
     color: rgba(0,0,0,0.87);
-    font-size: 13px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
     justify-content: flex-end;
@@ -213,11 +199,9 @@ body {
     text-decoration: underline;
 }
 
-
-
 .bottomleft a {
     color:  rgba(0,0,0,0.87);
-    font-size: 13px;
+    font-size: 14px;
     font-family: Arial, Helvetica, sans-serif;
     margin: 10px;
 }
